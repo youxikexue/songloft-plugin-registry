@@ -1,0 +1,6 @@
+{
+  "name": "Songloft 插件源",
+  "plugins": [
+    "https://raw.githubusercontent.com/youxikexue/songloft-plugin-registry/main/plugins/lxbridge/plugin.json"
+  ]
+}
