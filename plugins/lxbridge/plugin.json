@@ -6,7 +6,7 @@
   "author": "soundforge",
   "homepage": "https://github.com/youxikexue/lxbridge",
   "license": "Apache-2.0",
-  "icon": "static/icon.svg",
+  "icon": "icon.svg",
   "entryPath": "lxbridge",
   "main": "main.js",
   "minHostVersion": "1.3.0",
