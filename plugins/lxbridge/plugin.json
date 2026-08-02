@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/songloft-org/plugin-toolchain/main/schemas/plugin.schema.json",
   "name": "LX音乐桥",
-  "version": "2.5.2",
+  "version": "2.7.0",
   "description": "连接lxserver与MIOT插件",
   "author": "soundforge",
   "homepage": "https://github.com/youxikexue/lxbridge",
@@ -22,6 +22,6 @@
     "/api/proxy/play"
   ],
   "updateUrl": "https://raw.githubusercontent.com/youxikexue/songloft-plugin-registry/main/plugins/lxbridge/manifest.json",
-  "entryHash": "9fee9af5f9ed6f298f7504c3f5c658288ed41626a411246bf621ddb2da7a7253",
-  "zipHash": "b7fed3b4f0b5d78977880b6ef72b7fa212b9d86e77e53d6eb01519f9c0c6c2d7"
+  "entryHash": "b2419538f581ea5d8879844918e2fa23cd5cc0a9f77e9c410077ba32be056ffd",
+  "zipHash": "c734087d2f13e418f06105534508e49c8f88be37497d0bf7c8db24a379ee268d"
 }
